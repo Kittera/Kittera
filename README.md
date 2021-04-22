@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... databases, machine learning, software engineering
 - 🌱 I’m currently learning ... Java, C, Erlang, Python, SQL, Kotlin
 - 💞️ I’m looking to collaborate on ... Fun, productive, useful, and pretty things!
-- 📫 How to reach me ... denizine@gmail.com
+- 📫 How to reach me ... denizine@gmail.com https://www.linkedin.com/in/kitmccloud/
