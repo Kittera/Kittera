@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kittera
+- 👀 I’m interested in ... databases, machine learning, software engineering
+- 🌱 I’m currently learning ... Java, Python, SQL, Kotlin
+- 💞️ I’m looking to collaborate on ... Fun, productive, useful, and pretty things!
+- 📫 How to reach me ... denizine@gmail.com
