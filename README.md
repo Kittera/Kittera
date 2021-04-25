@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kittera
-- 👀 I’m interested in ... databases, machine learning, software engineering
+- 👀 I’m interested in ... discord bots, databases, software engineering, and the world wide web
 - 🌱 I’m currently learning ... Java, C, Erlang, Python, SQL, Kotlin
 - 💞️ I’m looking to collaborate on ... Fun, productive, useful, and pretty things!
 - 📫 How to reach me ... denizine@gmail.com https://www.linkedin.com/in/kitmccloud/
