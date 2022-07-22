@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kittera
 - 👀 I’m interested in ... electrified transport, embedded systems, databases, software engineering, IoT, and the world wide web
-- 🌱 I’m currently learning ... Java, C, Erlang, Python, SQL, Kotlin
-- 🎯 I'm good with ... Python, Java, Kotlin
+- 🌱 I’m currently learning ... Java, C, Erlang, Python, SQL, Kotlin, HTML, CSS, JS, NodeJS, Express, VueJS
+- 🎯 I'm good with ... Python, Java, Kotlin, HTML, CSS, JS, jQuery
 - 💞️ I’m looking to collaborate on ... Fun, productive, useful, and pretty things!
 - 🖤 Favorite Languages: Python, Kotlin
 - 📫 How to reach me ... 
@@ -9,3 +9,4 @@
 - kittera@lynxpardia.xyz
 - LinkedIn: https://www.linkedin.com/in/kitmccloud/
 - Discord: Lynxpardia#2147
+COMING SOON: www.lynxpardia.xyz
